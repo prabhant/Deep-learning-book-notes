@@ -12,3 +12,10 @@
 * **Eigendecomposition:** we decompose a matrix into a set of eigenvectors and eigenvalues.
 * **Eigenvector:** An eigenvector of a square matrix A is a non-zero vector v such that multiplication by A alters only the scale of v: Av = λ v .
 * **λ:** Eigenvalue
+* **Trace operator:** The trace operator gives the sum of all of the diagonal entries of a matrix.
+
+## Important Points
+
+* Principal component analysis(PCA) can be derived with linear algebra.
+* Write the proof of PCA as an exercise(recommended by author).
+
